@@ -10,6 +10,6 @@ $ rosrun rqt_graph rqt_graph
 $ rosrun turtlesim turtlesim_node
 $ rosnode list
 $ rostopic list
-$ rostopic echo (topic name)
+$ rostopic echo 
 $ rosrun turtlesim draw_square
 $ rosrun turtlesim turtle_teleop_key
